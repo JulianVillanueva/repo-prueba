@@ -24,7 +24,7 @@ class Cliente:
 print('Firma dev2')
 
 def menu():
-    print('Bienvenido a la tienda, seleccione una opcion:')
+    print('Bienvenido a la tienda, seleccione una opcin:')
     print('1. Añadir producto')
     print('2. Ver productos')
     print('3. Salir')
